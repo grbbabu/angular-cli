@@ -91,7 +91,7 @@
     "nopt": "^3.0.1",
     "npm-run-all": "^3.0.0",
     "offline-plugin": "^3.4.1",
-    "opn": "4.0.1",
+    "opn": "6.0.0",
     "ora": "^0.2.0",
     "parse5": "^2.1.5",
     "portfinder": "1.0.9",
