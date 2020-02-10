@@ -140,7 +140,7 @@
     ]
   },
   "devDependencies": {
-    "@types/chai": "^3.4.32",
+    "@types/chai": "^4.2.8",
     "@types/chalk": "^0.4.28",
     "@types/common-tags": "^1.2.4",
     "@types/denodeify": "^1.2.29",
