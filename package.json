@@ -171,7 +171,7 @@
     "object-assign": "^4.0.1",
     "request": "^2.74.0",
     "resolve-bin": "^0.4.0",
-    "rewire": "^2.5.1",
+    "rewire": "^5.0.0",
     "sinon": "^1.17.3",
     "through": "^2.3.8",
     "tree-kill": "^1.0.0",
