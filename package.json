@@ -162,7 +162,7 @@
     "exists-sync": "0.0.3",
     "express": "^4.14.0",
     "jasmine": "^2.4.1",
-    "jasmine-spec-reporter": "^2.7.0",
+    "jasmine-spec-reporter": "^6.0.0",
     "minimatch": "^3.0.0",
     "minimist": "^1.2.0",
     "mocha": "^2.4.5",
