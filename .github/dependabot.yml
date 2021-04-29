@@ -1,0 +1,32 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "19:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: "@types/chai"
+    versions:
+    - 4.2.14
+    - 4.2.15
+    - 4.2.16
+  - dependency-name: sinon
+    versions:
+    - 9.2.4
+  - dependency-name: enhanced-resolve
+    versions:
+    - 5.4.1
+  - dependency-name: jasmine-spec-reporter
+    versions:
+    - 6.0.0
+  - dependency-name: chalk
+    versions:
+    - 4.1.0
+  - dependency-name: stylus-loader
+    versions:
+    - 3.0.2
+  - dependency-name: source-map-loader
+    versions:
+    - 0.2.4
