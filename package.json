@@ -59,7 +59,7 @@
     "ember-cli-normalize-entity-name": "^1.0.0",
     "ember-cli-preprocess-registry": "^2.0.0",
     "ember-cli-string-utils": "^1.0.0",
-    "enhanced-resolve": "^2.3.0",
+    "enhanced-resolve": "^5.8.2",
     "exists-sync": "0.0.3",
     "extract-text-webpack-plugin": "^2.0.0-beta.4",
     "file-loader": "^0.8.5",
